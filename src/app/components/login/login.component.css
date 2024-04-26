@@ -1,0 +1,34 @@
+.form-control{
+    width: 461px;
+    height: 65px;
+    padding-right: 30px;
+}
+::placeholder {
+    color: #E02544; /* Change this to the color you want */
+  }
+
+  .password-input {
+    position: relative;
+  }
+
+  .toggle-password {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  .button-control{
+    width: 461px;
+    height: 49px;
+    background-color: #E02544;
+    color: white;
+}
+
+.signUp{
+    width: 324px;
+    height: 49px;
+    background-color:white ;
+    color: #E02544;
+    border: none;
+}

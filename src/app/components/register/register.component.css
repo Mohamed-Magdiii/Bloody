@@ -1,0 +1,60 @@
+.form-control{
+    /* width: 488px; */
+    height: 47.63px;
+    padding-right: 30px;
+}
+.info-inputs input{
+    height: 47.63px;
+    border-radius: 5px;
+    padding-left: 10px ;
+}
+::placeholder {
+    color: #E02544; /* Change this to the color you want */
+  }
+
+  .password-input {
+    position: relative;
+  }
+
+  .toggle-password {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  .button-control{
+    width: 461px;
+    height: 49px;
+    background-color: #E02544;
+    color: white;
+}
+
+
+.signUp{
+    width: 324px;
+    height: 49px;
+    background-color:#E02544 ;
+    color: white;
+    border: none;
+    font-size:20px
+}
+
+.right-side{
+position: relative;
+}
+
+.content-right{
+    position: absolute;
+    bottom: 27px;}
+.found-acc{
+    width: 324px;
+    height: 49px;
+    background-color: white;
+    color: #E02544;
+    border: none;
+    font-size:20px
+
+}
+
+

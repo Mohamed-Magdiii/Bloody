@@ -1,0 +1,21 @@
+.navbar-custom {
+    background-color: #E02544; 
+    /* display: flex;
+    justify-content: space-around; */
+    /* Replace with your desired background color */
+  }
+  
+  /* Customize the logo size */
+
+  
+  /* Customize the active link background color */
+  /* .navbar-nav .nav-link.active {
+    background-color: #e9ecef; 
+  } */
+.nav-link{
+  color: #E02544;
+  font-size: 18px;
+}
+.navbar-nav{
+  padding-left: 45px;
+}
